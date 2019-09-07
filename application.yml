@@ -1,6 +1,12 @@
 spring：
-  profile:
-  active:
-  -dev
+    profiles:
+        active:
+        - dev
 
+---
+spring:
+    profiles:dev
+    applicaion:
+        name:springcloud-config-dev
+    
 
