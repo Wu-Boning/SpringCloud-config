@@ -5,8 +5,8 @@ spring：
 
 ---
 spring:
-    profiles:dev
+    profiles: dev
     applicaion:
-        name:springcloud-config-dev
+        name: springcloud-config-dev
     
 
